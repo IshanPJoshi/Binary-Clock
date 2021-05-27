@@ -6,7 +6,7 @@ You can access the website [here](https://ishanpjoshi.github.io/Binary-Clock/)
 
 Example provided by [Wikipedia Binary-Clock Page](https://en.wikipedia.org/wiki/Binary_clock):
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Binary_clock.svg/330px-Binary_clock.svg.png">
+<img  target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Binary_clock.svg/330px-Binary_clock.svg.png">
 
 ## Available Scripts
 
