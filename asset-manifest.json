@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Binary-Clock/static/css/main.6b84fb86.chunk.css",
+    "main.js": "/Binary-Clock/static/js/main.fe3aff8f.chunk.js",
+    "main.js.map": "/Binary-Clock/static/js/main.fe3aff8f.chunk.js.map",
+    "runtime-main.js": "/Binary-Clock/static/js/runtime-main.f81312cb.js",
+    "runtime-main.js.map": "/Binary-Clock/static/js/runtime-main.f81312cb.js.map",
+    "static/js/2.c319a1a6.chunk.js": "/Binary-Clock/static/js/2.c319a1a6.chunk.js",
+    "static/js/2.c319a1a6.chunk.js.map": "/Binary-Clock/static/js/2.c319a1a6.chunk.js.map",
+    "index.html": "/Binary-Clock/index.html",
+    "static/css/main.6b84fb86.chunk.css.map": "/Binary-Clock/static/css/main.6b84fb86.chunk.css.map",
+    "static/js/2.c319a1a6.chunk.js.LICENSE.txt": "/Binary-Clock/static/js/2.c319a1a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81312cb.js",
+    "static/js/2.c319a1a6.chunk.js",
+    "static/css/main.6b84fb86.chunk.css",
+    "static/js/main.fe3aff8f.chunk.js"
+  ]
+}
