@@ -2,11 +2,11 @@
 
 A binary clock that displays the time of day using bits
 
-You can access the website [here](https://ishanpjoshi.github.io/Binary-Clock/)
+You can access the website <a href="https://ishanpjoshi.github.io/Binary-Clock/" target="_blank">here</a>
 
 Example provided by [Wikipedia Binary-Clock Page](https://en.wikipedia.org/wiki/Binary_clock):
 
-<img  target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Binary_clock.svg/330px-Binary_clock.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Binary_clock.svg/330px-Binary_clock.svg.png">
 
 ## Available Scripts
 
